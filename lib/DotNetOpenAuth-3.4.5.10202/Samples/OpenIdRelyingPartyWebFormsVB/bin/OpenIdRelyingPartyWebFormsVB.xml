@@ -1,0 +1,179 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OpenIdRelyingPartyWebFormsVB
+</name>
+</assembly>
+<members>
+<member name="F:OpenIdRelyingPartyWebFormsVB.TracePage.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.TracePage.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.TracePage.clearLogButton">
+	<summary>
+clearLogButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.TracePage.placeHolder1">
+	<summary>
+placeHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:OpenIdRelyingPartyWebFormsVB.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OpenIdRelyingPartyWebFormsVB.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:OpenIdRelyingPartyWebFormsVB.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:OpenIdRelyingPartyWebFormsVB.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:OpenIdRelyingPartyWebFormsVB.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:OpenIdRelyingPartyWebFormsVB.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:OpenIdRelyingPartyWebFormsVB.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:OpenIdRelyingPartyWebFormsVB.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:OpenIdRelyingPartyWebFormsVB.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.LoginProgrammatic.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.LoginProgrammatic.openIdBox">
+	<summary>
+openIdBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.LoginProgrammatic.loginButton">
+	<summary>
+loginButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.LoginProgrammatic.openidValidator">
+	<summary>
+openidValidator control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.LoginProgrammatic.loginFailedLabel">
+	<summary>
+loginFailedLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.LoginProgrammatic.loginCanceledLabel">
+	<summary>
+loginCanceledLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:OpenIdRelyingPartyWebFormsVB.Login.OpenIdLogin1_LoggedIn(System.Object,DotNetOpenAuth.OpenId.RelyingParty.OpenIdEventArgs)">
+	<summary>
+ Fired upon login.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:DotNetOpenAuth.OpenId.RelyingParty.OpenIdEventArgs"/> instance containing the event data.</param>
+	<remarks>
+ Note, that straight after login, forms auth will redirect the user
+ to their original page. So this page may never be rendererd.
+ </remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.Login.OpenIdLogin1">
+	<summary>
+OpenIdLogin1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.Login.requireSslCheckBox">
+	<summary>
+requireSslCheckBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.Login.papePolicies">
+	<summary>
+papePolicies control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB.Login.yahooLoginButton">
+	<summary>
+yahooLoginButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OpenIdRelyingPartyWebFormsVB._Default.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
