@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc", "Mvc\Mvc.csproj", "{E098AC46-4BEC-49E0-A03F-CEA5A229E518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication", "MvcApplication\MvcApplication.csproj", "{C36DF55D-69BE-4E31-A629-05D0E7225A1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcTest", "MvcTest\MvcTest.csproj", "{76E37CBD-0311-4DFC-84BC-106D95CE5565}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{158BF3FB-04BD-4B89-B687-F354444B7BA3}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		NinjectApplication2.vsmdi = NinjectApplication2.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = NinjectApplication2.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E098AC46-4BEC-49E0-A03F-CEA5A229E518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E098AC46-4BEC-49E0-A03F-CEA5A229E518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E098AC46-4BEC-49E0-A03F-CEA5A229E518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E098AC46-4BEC-49E0-A03F-CEA5A229E518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36DF55D-69BE-4E31-A629-05D0E7225A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36DF55D-69BE-4E31-A629-05D0E7225A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36DF55D-69BE-4E31-A629-05D0E7225A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36DF55D-69BE-4E31-A629-05D0E7225A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E37CBD-0311-4DFC-84BC-106D95CE5565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E37CBD-0311-4DFC-84BC-106D95CE5565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E37CBD-0311-4DFC-84BC-106D95CE5565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E37CBD-0311-4DFC-84BC-106D95CE5565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

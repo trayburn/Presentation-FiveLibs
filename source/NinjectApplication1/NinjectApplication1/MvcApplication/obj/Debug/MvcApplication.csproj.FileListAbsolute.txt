@@ -1,0 +1,15 @@
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\bin\MvcApplication.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\bin\MvcApplication.pdb
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\bin\Mvc.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\bin\MvcTurbine.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\bin\MvcTurbine.Web.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\bin\Ninject.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\bin\MvcTurbine.Ninject.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\bin\Mvc.pdb
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\bin\MvcTurbine.xml
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\bin\MvcTurbine.Web.xml
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\bin\Ninject.xml
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\bin\MvcTurbine.Ninject.xml
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\obj\Debug\ResolveAssemblyReference.cache
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\obj\Debug\MvcApplication.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication1\NinjectApplication1\MvcApplication\obj\Debug\MvcApplication.pdb

@@ -1,0 +1,13 @@
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\bin\Debug\Mvc.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\bin\Debug\Mvc.pdb
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\bin\Debug\MvcTurbine.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\bin\Debug\MvcTurbine.Ninject.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\bin\Debug\MvcTurbine.Web.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\bin\Debug\Ninject.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\bin\Debug\MvcTurbine.xml
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\bin\Debug\MvcTurbine.Ninject.xml
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\bin\Debug\MvcTurbine.Web.xml
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\bin\Debug\Ninject.xml
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\obj\Debug\ResolveAssemblyReference.cache
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\obj\Debug\Mvc.dll
+E:\source\Presentation-FiveLibs\source\NinjectApplication2\NinjectApplication2\Mvc\obj\Debug\Mvc.pdb

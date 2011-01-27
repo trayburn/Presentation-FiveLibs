@@ -1,0 +1,10 @@
+E:\source\Presentation-FiveLibs\source\TysonDevExamples\TysonDevExamples\bin\Debug\TysonDevExamples.exe
+E:\source\Presentation-FiveLibs\source\TysonDevExamples\TysonDevExamples\bin\Debug\TysonDevExamples.pdb
+E:\source\Presentation-FiveLibs\source\TysonDevExamples\TysonDevExamples\bin\Debug\Castle.Core.dll
+E:\source\Presentation-FiveLibs\source\TysonDevExamples\TysonDevExamples\bin\Debug\System.CoreEx.dll
+E:\source\Presentation-FiveLibs\source\TysonDevExamples\TysonDevExamples\bin\Debug\System.Interactive.dll
+E:\source\Presentation-FiveLibs\source\TysonDevExamples\TysonDevExamples\bin\Debug\System.Reactive.dll
+E:\source\Presentation-FiveLibs\source\TysonDevExamples\TysonDevExamples\bin\Debug\Castle.Core.pdb
+E:\source\Presentation-FiveLibs\source\TysonDevExamples\TysonDevExamples\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\source\Presentation-FiveLibs\source\TysonDevExamples\TysonDevExamples\obj\x86\Debug\TysonDevExamples.exe
+E:\source\Presentation-FiveLibs\source\TysonDevExamples\TysonDevExamples\obj\x86\Debug\TysonDevExamples.pdb
